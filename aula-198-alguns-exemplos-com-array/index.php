@@ -1,4 +1,7 @@
 <?php
+	// Aula 198 - Exemplo com array()
+	// vinicius@viniciusborsato.com
+
 	$carros = array('Ferrari', 'Fusca', 'Gol');
     
 	print_r($carros);
